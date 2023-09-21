@@ -10,9 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "csv-writer": "^1.6.0",
+    "faiss-node": "^0.3.0",
     "fast-csv": "^4.3.6",
     "fs": "^0.0.1-security",
     "glob": "^10.3.4",
-    "langchain": "^0.0.150"
+    "langchain": "^0.0.150",
+    "pickleparser": "^0.1.0"
   }
 }
